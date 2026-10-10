@@ -1,0 +1,328 @@
+{
+  "albums": [
+    {
+      "id": "album-1",
+      "name": "Wild Horizons",
+      "description": "Majestic mountain ranges, tranquil lakes, and misty forest sunrises.",
+      "color": "#06b6d4",
+      "createdAt": "2026-10-03T04:44:26.489Z",
+      "coverPhotoUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "album-2",
+      "name": "Metropolis & Neon",
+      "description": "Futuristic cityscapes, brutalist architecture, and vibrant urban nights.",
+      "color": "#8b5cf6",
+      "createdAt": "2026-10-05T04:44:26.496Z",
+      "coverPhotoUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "album-3",
+      "name": "Human Stories",
+      "description": "Expressive street portraits, cultural expressions, and spontaneous candid moments.",
+      "color": "#f59e0b",
+      "createdAt": "2026-10-07T04:44:26.496Z",
+      "coverPhotoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "album-4",
+      "name": "Cosmic & Minimal",
+      "description": "Abstract geometries, architectural shadows, and calming minimalist compositions.",
+      "color": "#ec4899",
+      "createdAt": "2026-10-09T04:44:26.496Z",
+      "coverPhotoUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-1791614021491-0",
+      "title": "WhatsApp Image 2026 09 17 at 8.34.11 PM",
+      "description": "",
+      "url": "/uploads/WhatsApp_Image_2026-09-17_at_8_34_11_PM-1791614021277-386655.jpg",
+      "thumbnailUrl": "/uploads/WhatsApp_Image_2026-09-17_at_8_34_11_PM-1791614021277-386655.jpg",
+      "filename": "WhatsApp_Image_2026-09-17_at_8_34_11_PM-1791614021277-386655.jpg",
+      "originalName": "WhatsApp Image 2026-09-17 at 8.34.11 PM.jpg",
+      "albumId": null,
+      "tags": [],
+      "favorite": false,
+      "size": 31927,
+      "mimeType": "image/jpeg",
+      "isLocal": true,
+      "createdAt": "2026-10-10T06:33:41.491Z"
+    },
+    {
+      "id": "photo-1791613643014-0",
+      "title": "20210126 132257",
+      "description": "",
+      "url": "/uploads/20210126_132257-1791613642565-930177.jpg",
+      "thumbnailUrl": "/uploads/20210126_132257-1791613642565-930177.jpg",
+      "filename": "20210126_132257-1791613642565-930177.jpg",
+      "originalName": "20210126_132257.jpg",
+      "albumId": null,
+      "tags": [],
+      "favorite": false,
+      "size": 20656786,
+      "mimeType": "image/jpeg",
+      "isLocal": true,
+      "createdAt": "2026-10-10T06:27:23.014Z"
+    },
+    {
+      "id": "photo-1791612186416-0",
+      "title": "aadhar",
+      "description": "",
+      "url": "/uploads/aadhar-1791612186350-671240.jpeg",
+      "thumbnailUrl": "/uploads/aadhar-1791612186350-671240.jpeg",
+      "filename": "aadhar-1791612186350-671240.jpeg",
+      "originalName": "aadhar.jpeg",
+      "albumId": null,
+      "tags": [],
+      "favorite": false,
+      "size": 129483,
+      "mimeType": "image/jpeg",
+      "isLocal": true,
+      "createdAt": "2026-10-10T06:03:06.416Z"
+    },
+    {
+      "id": "photo-1",
+      "title": "Emerald Valley Reflection",
+      "description": "Crystal-clear alpine lake reflecting towering pine ridges in morning mist.",
+      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-1",
+      "tags": [
+        "nature",
+        "lake",
+        "mountains",
+        "reflection"
+      ],
+      "favorite": true,
+      "size": 3420000,
+      "width": 1920,
+      "height": 1080,
+      "aspectRatio": 1.77,
+      "createdAt": "2026-10-04T04:44:26.496Z"
+    },
+    {
+      "id": "photo-2",
+      "title": "Autumn Canyon Glow",
+      "description": "Sunlight piercing through narrow sandstone slot canyons with vibrant orange hues.",
+      "url": "https://images.unsplash.com/photo-1518457607834-6e8d80c183c5?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1518457607834-6e8d80c183c5?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-1",
+      "tags": [
+        "canyon",
+        "sunset",
+        "desert",
+        "adventure"
+      ],
+      "favorite": false,
+      "size": 2890000,
+      "width": 1200,
+      "height": 1600,
+      "aspectRatio": 0.75,
+      "createdAt": "2026-10-05T04:44:26.496Z"
+    },
+    {
+      "id": "photo-3",
+      "title": "Glacial Serenade",
+      "description": "Cascading turquoise meltwater under arctic clouds.",
+      "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-1",
+      "tags": [
+        "nature",
+        "mountains",
+        "fog",
+        "atmospheric"
+      ],
+      "favorite": true,
+      "size": 4120000,
+      "width": 1600,
+      "height": 1066,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-06T04:44:26.496Z"
+    },
+    {
+      "id": "photo-4",
+      "title": "Silent Pine Forest",
+      "description": "Deep conifers wrapped in low morning fog in the Pacific Northwest.",
+      "url": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-1",
+      "tags": [
+        "trees",
+        "fog",
+        "serene",
+        "forest"
+      ],
+      "favorite": false,
+      "size": 2750000,
+      "width": 1600,
+      "height": 1067,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-07T04:44:26.496Z"
+    },
+    {
+      "id": "photo-5",
+      "title": "Cyberpunk Tokyo Rain",
+      "description": "Neon billboards reflected on wet tarmac under umbrella crowds in Shinjuku.",
+      "url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-2",
+      "tags": [
+        "city",
+        "neon",
+        "rain",
+        "night",
+        "tokyo"
+      ],
+      "favorite": true,
+      "size": 3820000,
+      "width": 1600,
+      "height": 1067,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-05T04:44:26.496Z"
+    },
+    {
+      "id": "photo-6",
+      "title": "Monolithic Skyscraper Apex",
+      "description": "Low-angle perspective looking up at geometric glass facades kissing the clouds.",
+      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-2",
+      "tags": [
+        "architecture",
+        "glass",
+        "sky",
+        "modern"
+      ],
+      "favorite": false,
+      "size": 3100000,
+      "width": 1200,
+      "height": 1600,
+      "aspectRatio": 0.75,
+      "createdAt": "2026-10-06T04:44:26.496Z"
+    },
+    {
+      "id": "photo-7",
+      "title": "Midnight Highway Light Trails",
+      "description": "Long exposure vehicular light streams weaving through expressway interchanges.",
+      "url": "https://images.unsplash.com/photo-1508873696983-2df5293cb325?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb325?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-2",
+      "tags": [
+        "night",
+        "traffic",
+        "lights",
+        "motion",
+        "city"
+      ],
+      "favorite": true,
+      "size": 2650000,
+      "width": 1600,
+      "height": 1067,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-07T04:44:26.496Z"
+    },
+    {
+      "id": "photo-8",
+      "title": "Portrait in Warm Sunlight",
+      "description": "Golden hour rim lighting highlighting thoughtful gaze and natural skin texture.",
+      "url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-3",
+      "tags": [
+        "portrait",
+        "people",
+        "golden hour",
+        "street"
+      ],
+      "favorite": true,
+      "size": 2450000,
+      "width": 1200,
+      "height": 1500,
+      "aspectRatio": 0.8,
+      "createdAt": "2026-10-07T04:44:26.496Z"
+    },
+    {
+      "id": "photo-9",
+      "title": "Artisan Potter at Work",
+      "description": "Clay-dusted hands shaping a vessel on a spinning wooden wheel in the workshop.",
+      "url": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-3",
+      "tags": [
+        "craft",
+        "hands",
+        "artisan",
+        "warmth"
+      ],
+      "favorite": false,
+      "size": 2980000,
+      "width": 1600,
+      "height": 1067,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-08T04:44:26.496Z"
+    },
+    {
+      "id": "photo-10",
+      "title": "The Street Musician",
+      "description": "A passionate violin performance in a cobblestone Parisian alley.",
+      "url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-3",
+      "tags": [
+        "music",
+        "street",
+        "culture",
+        "passion"
+      ],
+      "favorite": false,
+      "size": 3200000,
+      "width": 1600,
+      "height": 1066,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-09T04:44:26.496Z"
+    },
+    {
+      "id": "photo-11",
+      "title": "Stairway to Shadows",
+      "description": "Brutalist concrete staircase casting stark diagonal shadows at midday.",
+      "url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-4",
+      "tags": [
+        "minimal",
+        "stairs",
+        "shadows",
+        "geometry"
+      ],
+      "favorite": true,
+      "size": 2100000,
+      "width": 1200,
+      "height": 1600,
+      "aspectRatio": 0.75,
+      "createdAt": "2026-10-09T10:44:26.496Z"
+    },
+    {
+      "id": "photo-12",
+      "title": "Crimson Dunes at Dusk",
+      "description": "Silky rippled desert sands with deep gradients of twilight sky.",
+      "url": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1600&q=85",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
+      "albumId": "album-4",
+      "tags": [
+        "desert",
+        "minimal",
+        "sunset",
+        "gradient"
+      ],
+      "favorite": false,
+      "size": 2900000,
+      "width": 1600,
+      "height": 1067,
+      "aspectRatio": 1.5,
+      "createdAt": "2026-10-09T16:44:26.496Z"
+    }
+  ]
+}
